@@ -1,0 +1,17 @@
+[
+  {
+    "developerId": "c6098a3c-c9e3-4205-a779-a577ea6f4be7",
+    "userName": "ahamilton",
+    "firstName": "Alex",
+    "lastName": "Hamilton",
+    "email": "ahamilton@example.com",
+    "status": "active",
+    "attributes": [
+      {
+        "name": "sample_attribute_0",
+        "value": "sample_attribute_value_0"
+      }
+    ],
+    "apps": []
+  }
+]
